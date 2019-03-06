@@ -9,8 +9,8 @@ const ProductsPage = () => (
   <Layout>
     <SEO title="Home" keywords={[`gatsby`, `application`, `react`]} />
     <h1>My Products</h1>
-    <p>my philosophy on life in.</p>
-    <p>Now go build something great.</p>
+    <p>We sell stuff.</p>
+    <p>You buy our stuff.</p>
     <div style={{ maxWidth: `300px`, marginBottom: `1.45rem` }}>
       <Image />
     </div>
